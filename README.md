@@ -4,6 +4,10 @@ Collection of custom React Hooks
 
 ## Hooks Description
 
+### useTitle
+
+Update your document's title.
+
 | Hook            | Description                                               |                                                                                   |
 | --------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | useTitle        | Update your document's title.                             | [Documentation](https://github.com/nomadcoders/nooks/tree/master/useTitle)        | [NPM Page](https://www.npmjs.com/package/@nooks/use-title)         |
